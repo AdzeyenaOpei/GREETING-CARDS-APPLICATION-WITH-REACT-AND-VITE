@@ -17,7 +17,8 @@ This project focuses on dynamic rendering through props, clean UI design with Ta
 
 Below is a screenshot showing the final output of the Greeting Cards application, including the header and the three greeting cards displayed correctly:
 
-![Screenshot 2024-11-25 125908](./assets/Screenshot.png)]
+![Screenshot](https://github.com/user-attachments/assets/7c913cb0-bebb-4205-a974-e30f2336febd)
+
 Example Output: All Three Cards and Header Displayed
 
 ---
